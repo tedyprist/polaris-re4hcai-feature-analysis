@@ -15,7 +15,6 @@ Material suplementar do Trabalho de Conclusão de Curso **"Engenharia de Requisi
 | `cenarios.pdf` | Enunciados dos três cenários usados na aplicação exploratória: recomendação de livros, busca acadêmica e planejamento de refeições. |
 | `aplicacao_polaris.pdf` | Aplicação do POLARIS aos três cenários (Explicabilidade, Justiça e Privacidade, fase de Engenharia de Requisitos). |
 | `aplicacao_re4hcai.xlsx` | Aplicação do RE4HCAI aos três cenários, feita em colaboração com a pesquisadora Bruna Santos. |
-| `catalogo_re4hcai_pt_br.xlsx` | Tradução livre para o português do catálogo de requisitos do RE4HCAI. |
 
 ## Material original dos frameworks
 
