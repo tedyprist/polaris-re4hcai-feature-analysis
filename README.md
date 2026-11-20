@@ -4,8 +4,6 @@ Material suplementar do Trabalho de Conclusão de Curso **"Engenharia de Requisi
 
 - **Autor:** Tedy Prist de Souza Pereira
 - **Orientadora:** Profa. Dra. Tayana Uchôa Conte
-- **Grupo de pesquisa:** USES (Grupo de Pesquisa em Usabilidade e Engenharia de Software)
-- **Fomento:** FAPEAM, por meio do PIBIC/UFAM
 
 ## Conteúdo
 
