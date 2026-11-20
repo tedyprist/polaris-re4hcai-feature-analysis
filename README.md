@@ -23,10 +23,6 @@ Este repositório não redistribui o material original dos frameworks. Consulte 
 - **POLARIS:** BALDASSARRE, M. T. et al. POLARIS: a framework to guide the development of trustworthy AI systems. In: *Proceedings of the IEEE/ACM 3rd International Conference on AI Engineering (CAIN)*. Lisboa: ACM, 2024. p. 200-210.
 - **RE4HCAI:** AHMAD, K. et al. Requirements engineering framework for human-centered artificial intelligence software systems. *Applied Soft Computing*, v. 143, p. 110455, 2023.
 
-## Como citar
-
-PEREIRA, T. P. S. **Engenharia de Requisitos para Sistemas de Machine Learning: uma análise comparativa entre os frameworks POLARIS e RE4HCAI como fundamentação para um pipeline Human-in-the-Loop**. Monografia (Bacharelado em Ciência da Computação). Instituto de Computação, Universidade Federal do Amazonas, Manaus, 2026.
-
 ## Licença
 
-Os artefatos deste repositório estão sob a licença [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.pt-br), exceto a tradução do catálogo do RE4HCAI, que segue os termos da publicação original.
+Os artefatos deste repositório estão sob a licença [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.pt-br)
