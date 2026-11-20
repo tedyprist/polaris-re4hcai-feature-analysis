@@ -2,8 +2,12 @@
 
 Material suplementar do Trabalho de Conclusão de Curso **"Engenharia de Requisitos para Sistemas de Machine Learning: uma análise comparativa entre os frameworks POLARIS e RE4HCAI como fundamentação para um pipeline Human-in-the-Loop"**, apresentado ao Instituto de Computação da Universidade Federal do Amazonas (IComp/UFAM) em 2026.
 
-- **Autor:** Tedy Prist de Souza Pereira
-- **Orientadora:** Profa. Dra. Tayana Uchôa Conte
+## Autoria
+
+- **Tedy Prist:** aplicação do POLARIS, análise dos resultados e redação.
+- **Bruna Santos:** construção dos cenários e aplicação do RE4HCAI, originalmente elaborados para o estudo:
+  SANTOS, B.; LIMA, M.; RIBEIRO, M.; CONTE, T. Teaching requirements engineering for human-centered AI: a classroom experience with the RE4HCAI framework. In: *Anais do Simpósio Brasileiro de Qualidade de Software (SBQS)*. São José dos Campos: SBC, 2025. Materiais: https://doi.org/10.6084/m9.figshare.29661263
+- **Feature Analysis:** conduzida em conjunto por Tedy Prist e Bruna Santos.
 
 ## Conteúdo
 
